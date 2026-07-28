@@ -1,8 +1,3 @@
-# PROGRAMMING FUNDAMENTALS — Assignment 2
-# Topic: Conditional Logic (if / elif / else) and Functions
-# TASK: Student Grade System
-
-
 def get_grade(score):
     """
     Takes a numeric score and returns the corresponding letter grade.
